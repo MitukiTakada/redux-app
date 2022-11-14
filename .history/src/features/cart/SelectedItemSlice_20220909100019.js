@@ -1,0 +1,3 @@
+const SelectedItemSlice ={
+  name: "selectedItem"
+}

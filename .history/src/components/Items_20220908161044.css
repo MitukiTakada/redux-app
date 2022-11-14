@@ -1,0 +1,42 @@
+.add-item-btn {
+  background-color: transparent;
+  border: none;
+  color: aqua;
+  font-size: 16px;
+  font-weight: bold;
+  transition: all 0.3s;
+}
+.add-item-btn:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+.items-contents {
+  display: flex;
+  align-items: center;
+}
+.item-cart {
+  padding: ;
+}
+.back-btn {
+  background-color: cadetblue;
+  color: white;
+  border-radius: 5px;
+  padding: 0.5rem 1.2rem;
+  text-align: center;
+  transition: all 0.5s;
+  box-shadow: 3px 3px 5px black;
+}
+.back-btn:hover {
+  cursor: pointer;
+  transform:translateY(3px);
+  box-shadow: none;
+  opacity: 0.8;
+}
+.all-item-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.page-title {
+  margin: 45px 0;
+  text-align: center;
+}
