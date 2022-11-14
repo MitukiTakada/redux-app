@@ -8,7 +8,7 @@ const cartItems = [
   },
   {
     id: 2,
-    title: "Next.js入門講座",
+    title: "Next.js入門講座"",
     price: "24000",
     img: "https://github.com/Shin-sibainu/redux-for-beginner-udemy/blob/main/src/img/item2.png?raw=true",
     amount: 1,
